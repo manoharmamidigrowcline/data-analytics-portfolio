@@ -12,14 +12,14 @@ The objective is to transform raw data into meaningful insights that support bet
 
 ## 🚀 Projects Overview
 
-| # | Project | Domain | Key Technologies |
-|---|---|---|---|
-| 01 | Retail Sales & Revenue Analytics | Retail | Excel, SQL, Python, Power BI |
-| 02 | Customer Churn & Retention Analytics | Telecom / SaaS | SQL, Python, Power BI |
-| 03 | Supply Chain & Logistics Analytics | Operations | Excel, SQL, Python, Power BI |
-| 04 | HR Analytics & Employee Attrition | Human Resources | Python, SQL, Power BI |
-| 05 | Marketing Campaign & ROI Analytics | Marketing | Excel, SQL, Python, Power BI |
-| 06 | E-Commerce Customer & Marketplace Analytics | E-Commerce | PostgreSQL, Python, Power BI |
+| #   | Project                                     | Domain          | Key Technologies             |
+| --- | ------------------------------------------- | --------------- | ---------------------------- |
+| 01  | Retail Sales & Revenue Analytics            | Retail          | Excel, SQL, Python, Power BI |
+| 02  | Customer Churn & Retention Analytics        | Telecom / SaaS  | SQL, Python, Power BI        |
+| 03  | Supply Chain & Logistics Analytics          | Operations      | Excel, SQL, Python, Power BI |
+| 04  | HR Analytics & Employee Attrition           | Human Resources | Python, SQL, Power BI        |
+| 05  | Marketing Campaign & ROI Analytics          | Marketing       | Excel, SQL, Python, Power BI |
+| 06  | E-Commerce Customer & Marketplace Analytics | E-Commerce      | PostgreSQL, Python, Power BI |
 
 ---
 
@@ -30,9 +30,11 @@ The objective is to transform raw data into meaningful insights that support bet
 **Domain:** Retail & Business Intelligence
 
 ### Overview
+
 Analyze retail sales data to understand revenue performance, product profitability, customer purchasing behavior, and regional sales trends.
 
 ### Key Objectives
+
 - Analyze overall sales and revenue performance.
 - Identify top-performing products and categories.
 - Evaluate regional and customer-wise sales.
@@ -40,6 +42,7 @@ Analyze retail sales data to understand revenue performance, product profitabili
 - Identify profitable and underperforming products.
 
 ### Key KPIs
+
 - Total Revenue
 - Total Profit
 - Total Orders
@@ -48,9 +51,11 @@ Analyze retail sales data to understand revenue performance, product profitabili
 - Monthly Sales Growth
 
 ### Technologies
+
 Excel | SQL | Python | Pandas | Power BI
 
 ### Expected Deliverables
+
 - Cleaned retail dataset.
 - SQL business analysis queries.
 - Python exploratory data analysis.
@@ -64,9 +69,11 @@ Excel | SQL | Python | Pandas | Power BI
 **Domain:** Telecom / SaaS / Customer Relationship Management
 
 ### Overview
+
 Analyze customer data to identify churn patterns, understand customer behavior, and discover factors influencing customer retention.
 
 ### Key Objectives
+
 - Calculate customer churn rate.
 - Identify high-risk customer segments.
 - Analyze churn based on subscription plans.
@@ -75,6 +82,7 @@ Analyze customer data to identify churn patterns, understand customer behavior, 
 - Recommend customer retention strategies.
 
 ### Key KPIs
+
 - Customer Churn Rate
 - Customer Retention Rate
 - Total Active Customers
@@ -83,9 +91,11 @@ Analyze customer data to identify churn patterns, understand customer behavior, 
 - Monthly Recurring Revenue (MRR)
 
 ### Technologies
+
 SQL | Python | Pandas | NumPy | Power BI | DAX
 
 ### Expected Deliverables
+
 - Customer data cleaning and preprocessing.
 - SQL-based churn analysis.
 - Customer behavior visualization.
@@ -99,9 +109,11 @@ SQL | Python | Pandas | NumPy | Power BI | DAX
 **Domain:** Supply Chain & Operations Management
 
 ### Overview
+
 Analyze supply chain operations to understand inventory performance, shipping efficiency, delivery delays, and operational costs.
 
 ### Key Objectives
+
 - Analyze inventory and stock availability.
 - Identify delayed and unsuccessful deliveries.
 - Evaluate shipping and carrier performance.
@@ -110,6 +122,7 @@ Analyze supply chain operations to understand inventory performance, shipping ef
 - Recommend inventory and logistics improvements.
 
 ### Key KPIs
+
 - Total Orders
 - On-Time Delivery Rate
 - Average Delivery Time
@@ -118,9 +131,11 @@ Analyze supply chain operations to understand inventory performance, shipping ef
 - Order Fulfillment Rate
 
 ### Technologies
+
 Excel | SQL | Python | Pandas | Power BI
 
 ### Expected Deliverables
+
 - Processed supply chain datasets.
 - SQL operational analysis.
 - Python exploratory analysis.
@@ -134,9 +149,11 @@ Excel | SQL | Python | Pandas | Power BI
 **Domain:** Human Resources & Workforce Analytics
 
 ### Overview
+
 Analyze employee data to understand workforce trends, employee satisfaction, attrition patterns, and factors affecting employee retention.
 
 ### Key Objectives
+
 - Analyze employee attrition rates.
 - Identify departments with high turnover.
 - Evaluate salary and performance patterns.
@@ -145,6 +162,7 @@ Analyze employee data to understand workforce trends, employee satisfaction, att
 - Recommend employee retention strategies.
 
 ### Key KPIs
+
 - Total Employees
 - Employee Attrition Rate
 - Employee Retention Rate
@@ -153,9 +171,11 @@ Analyze employee data to understand workforce trends, employee satisfaction, att
 - Department-wise Attrition
 
 ### Technologies
+
 Python | Pandas | NumPy | SQL | Power BI | DAX
 
 ### Expected Deliverables
+
 - Cleaned employee dataset.
 - Employee attrition analysis.
 - Department-wise workforce insights.
@@ -169,9 +189,11 @@ Python | Pandas | NumPy | SQL | Power BI | DAX
 **Domain:** Digital Marketing & Business Analytics
 
 ### Overview
+
 Evaluate marketing campaign performance to understand customer acquisition, campaign effectiveness, conversion rates, and return on marketing investments.
 
 ### Key Objectives
+
 - Analyze campaign-wise performance.
 - Calculate return on marketing investment.
 - Evaluate customer acquisition costs.
@@ -180,6 +202,7 @@ Evaluate marketing campaign performance to understand customer acquisition, camp
 - Identify high-performing customer segments.
 
 ### Key KPIs
+
 - Total Marketing Spend
 - Return on Investment (ROI)
 - Customer Acquisition Cost (CAC)
@@ -189,9 +212,11 @@ Evaluate marketing campaign performance to understand customer acquisition, camp
 - Click-Through Rate (CTR)
 
 ### Technologies
+
 Excel | SQL | Python | Pandas | Power BI
 
 ### Expected Deliverables
+
 - Marketing dataset preparation.
 - Campaign performance analysis.
 - Channel-wise ROI analysis.
@@ -205,9 +230,11 @@ Excel | SQL | Python | Pandas | Power BI
 **Domain:** E-Commerce & Marketplace Intelligence
 
 ### Overview
+
 Analyze e-commerce marketplace data to understand customer purchasing behavior, seller performance, order trends, delivery efficiency, and customer satisfaction.
 
 ### Key Objectives
+
 - Analyze sales and revenue trends.
 - Perform customer segmentation using RFM analysis.
 - Evaluate customer retention and purchasing patterns.
@@ -216,6 +243,7 @@ Analyze e-commerce marketplace data to understand customer purchasing behavior, 
 - Identify factors affecting customer satisfaction.
 
 ### Key KPIs
+
 - Total Revenue
 - Total Orders
 - Active Customers
@@ -226,9 +254,11 @@ Analyze e-commerce marketplace data to understand customer purchasing behavior, 
 - Customer Satisfaction Score
 
 ### Technologies
+
 PostgreSQL | Python | Pandas | NumPy | Power BI
 
 ### Expected Deliverables
+
 - Relational database analysis.
 - Advanced SQL queries and joins.
 - Customer segmentation analysis.
@@ -239,17 +269,17 @@ PostgreSQL | Python | Pandas | NumPy | Power BI
 
 # 🛠️ Technology Stack
 
-| Technology | Purpose |
-|---|---|
-| Microsoft Excel | Data cleaning, Pivot Tables and reporting |
-| SQL / PostgreSQL | Data querying, joins, aggregations and analysis |
-| Python | Data processing and exploratory data analysis |
-| Pandas | Data manipulation and transformation |
-| NumPy | Numerical computations |
-| Matplotlib / Seaborn | Data visualization |
-| Power BI | Interactive dashboards and business reporting |
-| DAX | Business calculations and analytical measures |
-| Jupyter Notebook | Interactive data analysis |
+| Technology           | Purpose                                         |
+| -------------------- | ----------------------------------------------- |
+| Microsoft Excel      | Data cleaning, Pivot Tables and reporting       |
+| SQL / PostgreSQL     | Data querying, joins, aggregations and analysis |
+| Python               | Data processing and exploratory data analysis   |
+| Pandas               | Data manipulation and transformation            |
+| NumPy                | Numerical computations                          |
+| Matplotlib / Seaborn | Data visualization                              |
+| Power BI             | Interactive dashboards and business reporting   |
+| DAX                  | Business calculations and analytical measures   |
+| Jupyter Notebook     | Interactive data analysis                       |
 
 ---
 
@@ -360,7 +390,7 @@ Business insights and recommendations are based on the datasets and assumptions 
 
 ---
 
-# ⭐ Support
+# ⭐ Support.
 
 If you find these projects useful for learning Data Analytics, consider giving this repository a star.
 
